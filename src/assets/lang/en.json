@@ -1441,6 +1441,7 @@
     "core.courses.nosearchresults": "No results",
     "core.courses.notenroled": "You are not enrolled in this course",
     "core.courses.notenrollable": "You cannot enrol yourself in this course.",
+    "core.courses.ocw": "OCW",
     "core.courses.password": "Enrolment key",
     "core.courses.paymentrequired": "This course requires a payment for entry.",
     "core.courses.paypalaccepted": "PayPal payments accepted",

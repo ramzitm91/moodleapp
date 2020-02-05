@@ -99,7 +99,7 @@ export class CoreCoursesDashboardPage implements OnDestroy {
                 const site = this.sitesProvider.getCurrentSite(),
                     displaySiteHome = site.getInfo() && site.getInfo().userhomepage === 0;
 
-                this.firstSelectedTab = displaySiteHome ? 0 : 1;
+                this.firstSelectedTab = displaySiteHome ? 0 : 0;
             } else {
                 this.firstSelectedTab = 0;
             }

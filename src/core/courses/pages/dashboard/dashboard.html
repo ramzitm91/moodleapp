@@ -22,6 +22,15 @@
 </ion-header>
 <ion-content>
     <core-tabs [selectedIndex]="firstSelectedTab" [hideUntil]="tabsReady">
+        <!-- OCW tab. -->
+        <core-tab [show]="siteHomeEnabled" [title]="'core.courses.ocw' | translate">
+            <ng-template>
+                <ion-content>
+                    
+                </ion-content>
+            </ng-template>
+        </core-tab>
+
         <!-- Site home tab. -->
         <core-tab [show]="siteHomeEnabled" [title]="'core.sitehome.sitehome' | translate">
             <ng-template>

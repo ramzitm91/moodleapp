@@ -77,7 +77,7 @@
     "customurlscheme": "moodlemobile",
     "siteurl": "",
     "sitename": "",
-    "multisitesdisplay": "",
+    "multisitesdisplay": "buttons",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
